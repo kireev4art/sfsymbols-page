@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : SF Symbols 5.0 support
     description                           : 5,000+ symbols available.
-    fontawesome_icon_name                 : 5
+    fontawesome_icon_name                 : plus-circle
     
   - title                                 : Choose SF Symbols release
     description                           : Useful when targerting older iOS versions.
@@ -46,11 +46,11 @@ features                                  :
 
   - title                                 : Localisation
     description                           : Preview how the symbol would look like in different locales.
-    fontawesome_icon_name                 : earth-europe
+    fontawesome_icon_name                 : globe
 
   - title                                 : Search
     description                           : Search symbols by the name.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
 
 
 
