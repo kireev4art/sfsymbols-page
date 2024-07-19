@@ -36,8 +36,8 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : SF Symbols 6.0 support
-    description                           : 6,000+ symbols available.
+  - title                                 : SF Symbols 5.3 support
+    description                           : 5,300+ symbols available.
     fontawesome_icon_name                 : plus-circle
     
   - title                                 : Choose SF Symbols release
